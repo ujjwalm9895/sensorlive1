@@ -146,7 +146,7 @@ This project delivers a complete pipeline for detecting faults in real-time sens
 ---
 
 ## **Contributors**
-- **Ujjwal [Your Last Name]**
+- **Ujjwal Madawat**
 
-For any queries, feel free to reach out at [Your Email Address].
+For any queries, feel free to reach out at Ujjwalm9895@gmail.com.
 
